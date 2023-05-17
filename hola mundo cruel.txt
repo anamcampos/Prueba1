@@ -1,1 +1,2 @@
-hola mundo cruel
+hola mundo cruel 
+este soy yo escribiendo desde github jsjs despues de haberlo subido por medio de git
